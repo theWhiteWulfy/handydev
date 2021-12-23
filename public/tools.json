@@ -28,6 +28,7 @@
       { "path": "/json-to-yaml", "title": "JSON to YAML" },
       { "path": "/yaml-to-json", "title": "YAML to JSON" },
       { "path": "/color-converter", "title": "Color Converter" }
+      { "path": "/json-to-interface", "title": "JSON to Interface" }
     ]
   },
   {
