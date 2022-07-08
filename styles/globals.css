@@ -9,12 +9,12 @@
   --color: #2D3134;
   --color-secondary: #cfcfca;
   --color-bg: #fbf8ee;
-  --color-bg-overlay: rgba(0, 0, 0, 0.1);
+  --color-bg-overlay: rgba(0, 0, 0, 0.2);
   --color-mark-bg: #ffd277;
   --color-muted-bg: #eae7dd;
   --color-muted: #79838b;
   --color-border: #EAE7DD;
-  --color-link: #f76f4e;
+  --color-link: #11ac24;
 
   --color-content-bg: #fff;
 
@@ -60,7 +60,7 @@ body.dark-mode {
   --color-muted-bg: #35332f;
   --color-muted: #b6b6a9;
   --color-border: #2f3535;
-  --color-link: #c4563b;
+  --color-link: #11ac24;
 
   --color-content-bg: rgb(0, 0, 0);
 
@@ -88,8 +88,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Helvetica Neue, sans-serif;
   font-size: 16px;
   height: 100%;
   color: var(--color);
