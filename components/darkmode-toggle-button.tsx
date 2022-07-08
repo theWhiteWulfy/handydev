@@ -16,6 +16,7 @@ const DarkmodeToggleButton = () => {
 
   return (
     <button
+    aria-label="Dark Mode toggle"
       onClick={() => {
         setDarkMode(darkMode === "dark" ? "light" : "dark");
       }}

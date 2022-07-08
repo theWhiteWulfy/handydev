@@ -7,7 +7,7 @@
   --color-green: #3fe374;
 
   --color: #2D3134;
-  --color-secondary: #cfcfca;
+  --color-secondary: #f2f2f2;
   --color-bg: #fbf8ee;
   --color-bg-overlay: rgba(0, 0, 0, 0.2);
   --color-mark-bg: #ffd277;
@@ -53,9 +53,9 @@ body.dark-mode {
   --color-green: #2bb958;
 
   --color: #e9e6db;
-  --color-secondary: #666660;
+  --color-secondary: #c1c1c0;
   --color-bg: #1e2022;
-  --color-bg-overlay: rgba(255, 255, 255, 0.1);
+  --color-bg-overlay: rgba(255, 255, 255, 0.2);
   --color-mark-bg: #a87e2a;
   --color-muted-bg: #35332f;
   --color-muted: #b6b6a9;
