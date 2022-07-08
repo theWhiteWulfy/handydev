@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ToolPage from "../utils/ToolPage";
 import styles from "./index.module.scss";
 import CheckmarkIcon from "../svg/checkmark.svg";
