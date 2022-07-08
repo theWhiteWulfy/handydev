@@ -16,7 +16,6 @@ const Home: ToolPage = () => {
           The all-in-one toolbox for developers
         </p>
         <div className={styles.privacy}>
-          <Image src="/images/lock.png" width={115} height={170} alt="" />
           <h2>Your privacy is guaranteed</h2>
           <p>Your data won&apos;t leave your browser.</p>
           <ul>

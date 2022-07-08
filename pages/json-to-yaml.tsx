@@ -154,7 +154,7 @@ const JSONToYAMLPage: ToolPage = () => {
                   const blob = new Blob([result.value], {
                     type: "application/json;charset=utf-8",
                   });
-                  FileSaver.saveAs(blob, "bazinga-json.json");
+                  FileSaver.saveAs(blob, "handydev-json.json");
                 }
               }}
             >
