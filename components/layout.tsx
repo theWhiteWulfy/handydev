@@ -133,7 +133,7 @@ export default function Layout<T extends ToolPageSettings>({
         />
         <meta
           name="viewport"
-          content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover"
+          content="width=device-width,initial-scale=1,maximum-scale=7,user-scalable=0,viewport-fit=cover"
         />
       </Head>
       {panelVisibility.sidebar && (
