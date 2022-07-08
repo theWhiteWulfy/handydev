@@ -7,7 +7,7 @@ const APIPage: ToolPage = () => (
     
     <p>
       <code>
-        <Link href="/tools.json">https://handydev.tools/tools.json</Link>
+        <Link href="/tools.json">tools.json</Link>
       </code>
     </p>
         

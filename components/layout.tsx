@@ -212,7 +212,7 @@ export default function Layout<T extends ToolPageSettings>({
               <li> All editors are resizable, and the size preference will be persisted.</li>
               <li> Press <code>/</code> to focus on the tool search input. Press{" "} <code>Enter</code> to select the first tool. </li>
               <li> Press <code>⌘/CTRL + k</code> to open the setting dropdown if available. </li>
-              <li><Link href="/json?sidebar=off">Sidebar off</Link> | <Link href="/json?sidebar=off&amp;footer=off">Footer and Sidebar Off</Link> | <Link href="/json?line-numbers=off">Line Numbers Off</Link></li>
+              <li><Link href="/json?sidebar=off">Sidebar off</Link> <Link href="/json?sidebar=off&amp;footer=off">Footer and Sidebar Off</Link> <Link href="/json?line-numbers=off">Line Numbers Off</Link></li>
             </ul>
             </blockquote>
             </footer>

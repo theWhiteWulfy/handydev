@@ -9,7 +9,7 @@ const Home: ToolPage = () => {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <span>Handydev.tools!</span>
+          Welcome to <span>.Handydev!</span>
         </h1>
         <p className={styles.description}>
           The all-in-one toolbox for developers

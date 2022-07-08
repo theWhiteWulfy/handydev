@@ -9,7 +9,7 @@ interface LogoProps {
 const Logo = ({ link = false, onClick }: LogoProps) => {
   const content = (
     <div onClick={onClick} className={styles.container}>
-      <span>.</span>HandyDev
+      HandyDev
     </div>
   );
 
