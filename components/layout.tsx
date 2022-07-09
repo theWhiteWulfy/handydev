@@ -133,7 +133,7 @@ export default function Layout<T extends ToolPageSettings>({
         />
         <meta
           name="viewport"
-          content="width=device-width,initial-scale=1,maximum-scale=7,user-scalable=0,viewport-fit=cover"
+          content="width=device-width,initial-scale=1,maximum-scale=7,viewport-fit=cover"
         />
       </Head>
       {panelVisibility.sidebar && (
@@ -145,6 +145,7 @@ export default function Layout<T extends ToolPageSettings>({
             </div>
             <div data-sm className={styles.mobileMenu}>
               <Button
+                aria-label="toggle sidebar"
                 variant="tertiary"
                 size="small"
                 onClick={() => setIsMenuOpen(!isMenuOpen)}
